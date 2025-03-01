@@ -50,26 +50,7 @@ This will prompt you to enter:
 ### Optimize a prompt
 
 ```bash
-prompt-optimizer optimize "Your prompt here"
-```
-
-### Command Options
-
-```bash
-# Use specific options directly
-prompt-optimizer optimize --tone formal --length detailed --format bullet
-
-# Use interactive mode with guided optimization
-prompt-optimizer optimize --interactive
-
-# Configure default settings
-prompt-optimizer config
-
-# Show current configuration
-prompt-optimizer config --show
-
-# Reset configuration to defaults
-prompt-optimizer config --reset
+prompt-optimizer optimize 
 ```
 
 ### Customization Options
